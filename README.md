@@ -1,0 +1,1 @@
+Konfident is a gem to checking GIT conventions.
